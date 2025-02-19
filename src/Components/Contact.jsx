@@ -10,7 +10,7 @@ function Contact() {
     <div className='bg-slate-200 ml-2 mr-2 rounded-lg mb-10'>
       <h1 className="text-4xl text-green-400 flex item-center justify-center m-5"><b>Collaborate?</b></h1> <br />
         <h1 className="text-3xl text-green-400 flex item-center justify-center m-5 ">Get in touch with me on the following platforms</h1>
-        <div className="space-x-5 flex-row justify-center item-center m-10 gap-5   space-y-5">
+        <div className="space-x-5 flex-row justify-center align-item-center m-10 gap-5   space-y-5">
                 <Link to="https://www.linkedin.com/in/zayed-s-ansari-02z/">
               <button className="btn btn-primary m-2 flex text-center item-center justify-center">
                 <img className='h-5 w-5'src={LI} alt="" />
