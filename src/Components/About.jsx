@@ -10,7 +10,7 @@ import Javascript from "../../public/Javascript.png";
 import Git from "../../public/Git.png";
 import System from "../../public/System.png";
 import Razorpay from "../../public/Razorpay.jpeg";
-import ReJs from "../../public/Rejs.jpeg";
+import ReJs from "../../public/ReJs.jpeg";
 import NoJs from "../../public/NoJs.jpeg";
 import LI from "../../public/LI.png";
 import GTHB from "../../public/GTHB.png";
