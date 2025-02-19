@@ -4,7 +4,7 @@ import Signature from "../../public/Signature.png";
 import Email from "../../public/Email.png";
 import Cpp from "../../public/Cpp.png";
 import JS from "../../public/JS.png";
-import MERN from "../../public/MERN.jpeg";
+import Mern from "../../public/Mern.jpeg";
 import TS from "../../public/TS.png";
 import Javascript from "../../public/Javascript.png";
 import Git from "../../public/Git.png";
@@ -242,7 +242,7 @@ function About() {
           <div className="card bg-base-100 image-full w-96  shadow-xl">
             <figure>
               <img
-                src={MERN}
+                src={Mern}
                 alt="Shoes"
               />
             </figure>
